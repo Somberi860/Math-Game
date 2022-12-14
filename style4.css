@@ -1,0 +1,23 @@
+.score-board {
+    display: flex;
+    align-items: center;
+    font-family: 'Press Start 2P', cursive; ;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 0.7em 1.4em 0.7em 1.1em;
+    color: white;
+    background: linear-gradient(0deg, rgba(20,167,62,1) 0%, rgba(102,247,113,1) 100%);
+    border: none;
+    box-shadow: 0 0.7em 1.5em -0.5em #14a73e98;
+    letter-spacing: 0.05em;
+    border-radius: 20em;
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    position: absolute;
+      top: 10%;
+      left: 90%;
+  }
+
+  
